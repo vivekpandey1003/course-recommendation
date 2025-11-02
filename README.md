@@ -76,9 +76,8 @@ Visualization (optional): Matplotlib, Seaborn
 Frontend: HTML, CSS
 
 📬 Contact
-Subrat Mishra
-📧 Email: 3subratmishra1sep@gmail.com
-🔗 GitHub: Subrat1920
+Vivek Pandey
+🔗 GitHub: vivekpandey1003
 
 📄 License
 This project is licensed under the MIT License.
