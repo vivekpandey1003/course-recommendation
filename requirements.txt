@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+flask
+dotenv
+flask-caching
+tensorflow
+keras
+termcolor
+gunicorn
+-e .
